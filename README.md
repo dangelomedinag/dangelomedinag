@@ -36,11 +36,11 @@ const projects = ['https://magacine.vercel.app'];
 
 # Connect with me
 
-![Twitter URL](https://img.shields.io/twitter/url?color=black&label=dangelomedinag&style=social&url=https://twitter.com/dangelomedinag)
+![Twitter](https://img.shields.io/twitter/url?color=black&label=dangelomedinag&style=social&url=https://twitter.com/dangelomedinag)
 
-![Twitter URL](https://img.shields.io/twitter/url?color=black&label=dangelomedinag&logo=instagram&style=social&url=https://www.instagram.com/dangelomedinag/)
+![Instagram](https://img.shields.io/twitter/url?color=black&label=dangelomedinag&logo=instagram&style=social&url=https://www.instagram.com/dangelomedinag/)
 
-![Twitter URL](https://img.shields.io/twitter/url?color=black&label=dangelomedinag&logo=twitch&style=social&url=https://www.twitch.tv/dangelomedinag)
+![Twitch](https://img.shields.io/twitter/url?color=black&label=dangelomedinag&logo=twitch&style=social&url=https://www.twitch.tv/dangelomedinag)
 
 # My latets blog posts
 
