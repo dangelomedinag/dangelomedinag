@@ -12,22 +12,27 @@
 
 My name is Dangelo, i am a Junior front-end developer and graphic designer.
 
-Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.
+I've always been pretty passionate about technology and photography, that's really what drives me to want to learn. I have worked as an audiovisual editor and as a graphic designer. Some time ago, self-taught, I started my steps in web development. To this day, I love it and I hope to continue enjoying it and learning.
 
 # My skills
 
-![Twitter URL](https://img.shields.io/static/v1?label=code&message=javascript&color=yellowgreen)
+![Twitter URL](https://img.shields.io/static/v1?label=web&message=html&color=orange)
+![Twitter URL](https://img.shields.io/static/v1?label=web&message=css&color=yellow)
+![Twitter URL](https://img.shields.io/static/v1?label=web&message=javascript&color=yellow)
+![Twitter URL](https://img.shields.io/static/v1?label=code&message=typescript&color=yellow)
 ![Twitter URL](https://img.shields.io/static/v1?label=code&message=nodejs&color=green)
+![Twitter URL](https://img.shields.io/static/v1?label=framework&message=sveltejs&color=orange)
+![Twitter URL](https://img.shields.io/static/v1?label=framework&message=reactjs&color=blue)
 
 <details>
 <summary>more skills</summary>
 <p>
 
-#### We can hide anything, even code!
+#### Take a look at my latest projects.
 
-    ```js
-      const hello = "Hello World"
-    ```
+```js
+const projects = ['https://magacine.vercel.app'];
+```
 
 </p></details>
 
