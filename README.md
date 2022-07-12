@@ -3,8 +3,6 @@
 <div align="center">
 
 ![GitHub followers](https://img.shields.io/github/followers/dangelomedinag?logo=github)
-![GitHub followers](https://img.shields.io/github/followers/dangelomedinag?logo=github)
-![GitHub followers](https://img.shields.io/github/followers/dangelomedinag?logo=github)
 
 </div>
 
@@ -16,13 +14,13 @@ I've always been pretty passionate about technology and photography, that's real
 
 # My skills
 
-![Twitter URL](https://img.shields.io/static/v1?label=web&message=html&color=orange)
-![Twitter URL](https://img.shields.io/static/v1?label=web&message=css&color=yellow)
-![Twitter URL](https://img.shields.io/static/v1?label=web&message=javascript&color=yellow)
-![Twitter URL](https://img.shields.io/static/v1?label=code&message=typescript&color=yellow)
-![Twitter URL](https://img.shields.io/static/v1?label=code&message=nodejs&color=green)
-![Twitter URL](https://img.shields.io/static/v1?label=framework&message=sveltejs&color=orange)
-![Twitter URL](https://img.shields.io/static/v1?label=framework&message=reactjs&color=blue)
+![html](https://img.shields.io/static/v1?label=web&message=html&color=orange)
+![css](https://img.shields.io/static/v1?label=web&message=css&color=yellow)
+![javascript](https://img.shields.io/static/v1?label=web&message=javascript&color=yellow)
+![typescript](https://img.shields.io/static/v1?label=code&message=typescript&color=yellow)
+![nodejs](https://img.shields.io/static/v1?label=code&message=nodejs&color=green)
+![sveltejs](https://img.shields.io/static/v1?label=framework&message=sveltejs&color=orange)
+![reactjs](https://img.shields.io/static/v1?label=framework&message=reactjs&color=blue)
 
 <details>
 <summary>more skills</summary>
@@ -38,11 +36,11 @@ const projects = ['https://magacine.vercel.app'];
 
 # Connect with me
 
-![Twitter URL](https://img.shields.io/twitter/url?color=black&label=dangelomedinag&style=social&url=https%3A%2F%2Ftwwitter%2Fdangelomedinag)
+![Twitter URL](https://img.shields.io/twitter/url?color=black&label=dangelomedinag&style=social&url=https://twitter.com/dangelomedinag)
 
-![Twitter URL](https://img.shields.io/twitter/url?color=black&label=dangelomedinag&logo=instagram&style=social&url=https%3A%2F%2Ftwwitter%2Fdangelomedinag)
+![Twitter URL](https://img.shields.io/twitter/url?color=black&label=dangelomedinag&logo=instagram&style=social&url=https://www.instagram.com/dangelomedinag/)
 
-![Twitter URL](https://img.shields.io/twitter/url?color=black&label=dangelomedinag&logo=twitch&style=social&url=https%3A%2F%2Ftwwitter%2Fdangelomedinag)
+![Twitter URL](https://img.shields.io/twitter/url?color=black&label=dangelomedinag&logo=twitch&style=social&url=https://www.twitch.tv/dangelomedinag)
 
 # My latets blog posts
 
